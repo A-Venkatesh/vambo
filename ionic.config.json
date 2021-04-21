@@ -1,0 +1,7 @@
+{
+  "name": "vambo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
